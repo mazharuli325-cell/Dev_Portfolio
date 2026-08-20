@@ -1,0 +1,32 @@
+YOUR NAME
+Full Stack Developer | React & Node.js
+
+Email: hello@example.com
+GitHub: https://github.com/yourname
+LinkedIn: https://linkedin.com/in/yourname
+
+SUMMARY
+Full-stack developer focused on accessible interfaces, reliable APIs, and practical product engineering.
+
+SKILLS
+Frontend: React, Next.js, TypeScript, Tailwind CSS
+Backend: Node.js, Express, REST, GraphQL
+Database: PostgreSQL, MongoDB, Redis, Prisma
+Tools: Git, Docker, CI/CD, Vercel, Testing
+
+EXPERIENCE
+Full Stack Developer, PixelStack Labs
+2024 - Present
+- Built customer dashboards with React, Next.js, and PostgreSQL.
+- Designed API contracts and reduced production support issues.
+- Added automated tests around billing and permission flows.
+
+Frontend Engineer, OrbitSoft
+2022 - 2024
+- Shipped responsive SaaS interfaces with TypeScript and Tailwind.
+- Improved Core Web Vitals across high-traffic product pages.
+- Created reusable component patterns with design partners.
+
+EDUCATION
+B.Sc. in Computer Science, University Name
+2018 - 2022
